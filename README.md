@@ -104,7 +104,7 @@
   <tr>
     <td><b>"Books And Articles" Publishing Platform</b></td>
     <td align="center"><code>Django</code> • <code>React js</code></td>
-    <tdA comprehensive digital publishing platform engineered for authors and readers to seamlessly share, manage, and explore books and articles.
+    <td >A comprehensive digital publishing platform engineered for authors and readers to seamlessly share, manage, and explore books and articles.
 Powered by a robust 3NF database architecture, featuring advanced user authentication, interactive content reviews, and a secure financial earnings tracking system.</td>
   </tr>
   <tr>
