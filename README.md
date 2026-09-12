@@ -145,7 +145,6 @@ Features dynamic impact counters, optimized SEO indexing, and a seamless respons
 
 
 <ul>
-  <li>💼 <b>GitHub:</b> <a href="[Your_GitHub_URL]">My GitHub Profile</a></li>
   <li>🔗 <b>LinkedIn:</b> <a href="www.linkedin.com/in/الايهم-صالح-4745b0436">ِ Ayham Alyaari</a></li>
   <li>📧 <b>Email:</b> <a href="mailto:alayhamsalehalyaari@gmail.com">alayhamsalehalyaari@gmail.com</a></li>
   <li>📞 <b>Phone/WhatsApp :</b> <a href="tel:+967779549785">+967 779549785</a></li>
