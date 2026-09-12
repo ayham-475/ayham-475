@@ -26,19 +26,7 @@
 
 
 <div align="center">
-  
-  <h3>🔷 Backend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=postman&logoColor=white" />
-  </p>
-<br>
-<br>
-<hr>
-  <h3>🔷 Frontend Development</h3>
+    <h3>🔷 Frontend Development</h3>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -47,6 +35,17 @@
     <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
     <br>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </p>
+<br>
+<br>
+<hr>
+   <h3>🔷 Backend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=postman&logoColor=white" />
   </p>
 
 <br>
@@ -84,9 +83,10 @@
 
 <ul>
   <li>Designing <b>Advanced JavaScript.</li>
+     <li> <b> Frontend Frameworks (React)</li>
   <li> <b>MVT Best Practices</b>.</li>
   <li> <b> Django RESTful API</li>
-  <li> <b> Frontend Frameworks (React)</li>
+ 
     
 </ul>
 
