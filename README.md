@@ -134,12 +134,13 @@ Features dynamic impact counters, optimized SEO indexing, and a seamless respons
 
 
 <hr>
+
+<br>
+<br>
 <p align="center">
   <i>Want to know more? Check the pinned repositories below 👇</i>
 </p>
 <br>
-<br>
-لا
 <h2>🌱 How to Reach Me</h2>
 
 
