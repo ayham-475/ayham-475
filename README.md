@@ -72,18 +72,17 @@
   
 </div>
 <br>
-### ⚙️ Architecture & Practices
-
-
-
   <br>
 <br>
 <br>
 
 <h3>⚙️ Architecture & Practices</h3>
 <p>
-🏗️ **Architecture:** RESTful APIs • Role-Based Access • Clean Code
-🔄 **Practices:** Agile & Scrum Methodology
+<strong>🏗️ Architecture: RESTful APIs • Role-Based Access • Clean Code</strong>
+
+</p>
+<p>
+  <strong>🔄 Practices: Agile & Scrum Methodology</strong>
 </p>
 <hr>
 <h2>📚 Currently Learning</h2>
