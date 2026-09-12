@@ -12,12 +12,10 @@
 <br>
 
 <div align="center">
-  <a href="[Your_LinkedIn_URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[Your_Mostaql_URL]"><img src="https://img.shields.io/badge/Freelancer-2CA8FF?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
-  <a href="mailto:[Your_Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/الايهم-صالح-4745b0436"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alayhamsalehalyaari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="[Your_Portfolio_URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
 <br>
 <br>
   <hr>
@@ -135,8 +133,10 @@ Features dynamic impact counters, optimized SEO indexing, and a seamless respons
 <h2>🌱 How to Reach Me</h2>
 
 <ul>
-  <li>💼 <b>GitHub:</b> <a href="[Your_Mostaql_URL]">My Mostaql Profile</a></li>
+  <li>💼 <b>GitHub:</b> <a href="[Your_GitHub_URL]">My GitHub Profile</a></li>
+  <li>🔗 <b>LinkedIn:</b> <a href="www.linkedin.com/in/الايهم-صالح-4745b0436">ِ Ayham Alyaari</a></li>
   <li>📧 <b>Email:</b> <a href="mailto:alayhamsalehalyaari@gmail.com">alayhamsalehalyaari@gmail.com</a></li>
+  <li>📞 <b>Phone/WhatsApp :</b> <a href="tel:+967779549785">+967 779549785</a></li>
 </ul>
 
 </div>
