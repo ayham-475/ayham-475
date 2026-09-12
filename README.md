@@ -72,19 +72,19 @@
   
 </div>
 <br>
+### ⚙️ Architecture & Practices
+
+
+
+  <br>
+<br>
+<br>
+
 <h3>⚙️ Architecture & Practices</h3>
 <p>
-  <img src="https://img.shields.io/badge/Architecture-RESTful_APIs-00599C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Role--Based_Access-D14836?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_Quality-Clean_Code-3776AB?style=for-the-badge&logo=sonarlint&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Methodology-Agile_&_Scrum-2496ED?style=for-the-badge&logo=jira&logoColor=white" />
+🏗️ **Architecture:** RESTful APIs • Role-Based Access • Clean Code
+🔄 **Practices:** Agile & Scrum Methodology
 </p>
-  <br>
-<br>
-<br>
-
-
 <hr>
 <h2>📚 Currently Learning</h2>
 
